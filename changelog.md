@@ -6,10 +6,16 @@
 * Team conventions: Allman notation, markdown for changelog  
 * Changelog Format: Read from newest to oldest
 
-## Version 4.0
 
+## Version 5.0
+
+#### March 21, 2018
 ### New components
+* Added tasks.xml file
+
+## Version 4.0
 -------------------------------------------------------------------------------------------------
+### New components
 #### March 8, 2018
 * Added test cases to test folder. - JL
 * Created task class for testing. -JL

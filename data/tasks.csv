@@ -3,6 +3,7 @@ id,task,priority,size,group,deadline,status,flag
 2,"Mow the lawn",2,2,1,,2,
 3,"Wash the car",2,2,1,,,
 4,"Paint the fence",1,2,1,,,
+5,laundry,3,,,,2,
 6,"Intramural hockey game",1,2,4,,,
 7,"Canucks hockey game",3,3,4,20170305,,
 8,"Buy steel-toed boots",2,1,3,,,
@@ -13,4 +14,4 @@ id,task,priority,size,group,deadline,status,flag
 13,"Buy milk & bread",2,1,1,,,1
 14,"Read War & Peace",1,3,1,,,
 15,"Organize the study",1,4,1,,,
-16,laundry,3,,,,2,
+
